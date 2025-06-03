@@ -16,7 +16,7 @@ async function loadCards() {
       return;
     }
     
-    list.innerHTML = ''; // Clear existing items
+    list.innerHTML = ''; 
   
     cards.forEach(card => {
       const li = document.createElement('li');
