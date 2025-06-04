@@ -81,3 +81,20 @@ async function loadCards() {
   document.addEventListener('DOMContentLoaded', loadCards);
 
 
+
+  const navMenuButton = document.querySelector('button.nav-menu:not(.alt)'); 
+  const navPopup = document.querySelector('.nav-popup');
+  const navCloseButton = navPopup.querySelector('button.nav-menu.alt'); 
+  
+
+  navMenuButton.addEventListener('click', () => {
+    navPopup.style.display = 'block';
+  });
+  
+  
+  navCloseButton.addEventListener('click', () => {
+    navPopup.style.display = 'none';
+  });
+  
+  
+  
