@@ -14,7 +14,8 @@
         "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/78HwcLJiQAOZqXlsU0ULSY/1d2fd2bdf7ac4e492dd454a0d0a886f8/Pack_shot_-_Beosound_A9_Art_of_A9_-_MonoNeon_-_1200x1200.png?q=90&fm=webp&w=375&h=375&fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/78HwcLJiQAOZqXlsU0ULSY/1d2fd2bdf7ac4e492dd454a0d0a886f8/Pack_shot_-_Beosound_A9_Art_of_A9_-_MonoNeon_-_1200x1200.png?q=90&fm=webp&w=512&h=512&fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/78HwcLJiQAOZqXlsU0ULSY/1d2fd2bdf7ac4e492dd454a0d0a886f8/Pack_shot_-_Beosound_A9_Art_of_A9_-_MonoNeon_-_1200x1200.png?q=90&fm=webp&w=720&h=720&fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/78HwcLJiQAOZqXlsU0ULSY/1d2fd2bdf7ac4e492dd454a0d0a886f8/Pack_shot_-_Beosound_A9_Art_of_A9_-_MonoNeon_-_1200x1200.png?q=90&fm=webp&w=1200&h=1200&fit=fill 2x",
         "price": "$179",
         "colorsCount": 2,
-        "showInfo": true
+        "showInfo": true,
+        "showPrice" : true
     },
 
     {
@@ -25,8 +26,199 @@
         "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
         "price" : "$179",
         "colorsCount" : 6,
+        "showInfo": true,
+        "showPrice": true
+    },
+
+    {
+        "name": "Beosound A9 Cover",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beoplay A9 Cover White 1",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/2Q210ONMPoLQqM6g1Mjpbo/5f46cf39521ca31376ee3e09125cbab6/a9_cover_white.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/2Q210ONMPoLQqM6g1Mjpbo/5f46cf39521ca31376ee3e09125cbab6/a9_cover_white.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/2Q210ONMPoLQqM6g1Mjpbo/5f46cf39521ca31376ee3e09125cbab6/a9_cover_white.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w",
+        "price" : "$179",
+        "colorsCount" : 3,
+        "showPrice" : true,
         "showInfo": true
-    }
-   
-]
+    },
+    {
+        "name": "Beosound A9 Wall Bracket",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beoplay A9 Cover White 1",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/80pCPcBk0XQqGT5kR8p5W/9af846933269dfd34194d30123207e3e/a9_wallbracket_1000x1000_new.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/80pCPcBk0XQqGT5kR8p5W/9af846933269dfd34194d30123207e3e/a9_wallbracket_1000x1000_new.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/80pCPcBk0XQqGT5kR8p5W/9af846933269dfd34194d30123207e3e/a9_wallbracket_1000x1000_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w",
+        "price" : "$150",
+        "showPrice" : true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beosound A5 Handle",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound A5 handle in Oak",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/4H83mhLMdJkQrCWSPvHDQw/ac438cbe6a097133f9a25f2be72e0791/Packshot-Beosound-A5-Handel-Oak-Perspective-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/4H83mhLMdJkQrCWSPvHDQw/ac438cbe6a097133f9a25f2be72e0791/Packshot-Beosound-A5-Handel-Oak-Perspective-s1200x1200px.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/4H83mhLMdJkQrCWSPvHDQw/ac438cbe6a097133f9a25f2be72e0791/Packshot-Beosound-A5-Handel-Oak-Perspective-s1200x1200px.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w",
+        "colorsCount" : 3,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beosound A5 Cover",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound A5 handle in Oak",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/529bS6LSVm8V5aBFaVYsXA/7903842b84d61a2729ace864bcd3ab5a/Packshot-Beosound-A5-Cover-Oak-Perspective-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/529bS6LSVm8V5aBFaVYsXA/7903842b84d61a2729ace864bcd3ab5a/Packshot-Beosound-A5-Cover-Oak-Perspective-s1200x1200px.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/529bS6LSVm8V5aBFaVYsXA/7903842b84d61a2729ace864bcd3ab5a/Packshot-Beosound-A5-Cover-Oak-Perspective-s1200x1200px.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w",
+        "colorsCount" : 4,
+        "showInfo": true
+        
+    },
+
+    {
+        "name": "Beosound Level Cover",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Light Oak Cover for Beosound Level",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/5qH6BBYkVYY57rwt12ypjs/4406a7885f33d19c578a9d6b6a3c2470/Beosound_Level_cover.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/5qH6BBYkVYY57rwt12ypjs/4406a7885f33d19c578a9d6b6a3c2470/Beosound_Level_cover.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/5qH6BBYkVYY57rwt12ypjs/4406a7885f33d19c578a9d6b6a3c2470/Beosound_Level_cover.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w",
+        "price" :"$359",
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beosound Level Wall Bracket",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound Level Wall Bracket",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/nLane9zMO08X1itzZfiII/5a7eb4ca035097c7e95a8148a5c567eb/Beosound_Level_-_Wall_bracket.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/nLane9zMO08X1itzZfiII/5a7eb4ca035097c7e95a8148a5c567eb/Beosound_Level_-_Wall_bracket.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/nLane9zMO08X1itzZfiII/5a7eb4ca035097c7e95a8148a5c567eb/Beosound_Level_-_Wall_bracket.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/nLane9zMO08X1itzZfiII/5a7eb4ca035097c7e95a8148a5c567eb/Beosound_Level_-_Wall_bracket.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$119",
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "USB-C to C fabric cable",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "USB C to C cable in white",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/4IVzW8BTPN9q8dCCq8N54/3126adde94047c47d714ad90ac593b9a/white_Fabric_no_shadow.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/4IVzW8BTPN9q8dCCq8N54/3126adde94047c47d714ad90ac593b9a/white_Fabric_no_shadow.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/4IVzW8BTPN9q8dCCq8N54/3126adde94047c47d714ad90ac593b9a/white_Fabric_no_shadow.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/4IVzW8BTPN9q8dCCq8N54/3126adde94047c47d714ad90ac593b9a/white_Fabric_no_shadow.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$45",
+        "colorsCount" : 2,
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beosound Explore Carabiner",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound Explore Carabiner in Bonfire Orange",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/7HHSqxirZJGkir7Q6juvF7/5b00dcff099c9520118f8a72cd1273e7/Packshot-Beosound-Explore-Carabiner-bonfire-orange-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/7HHSqxirZJGkir7Q6juvF7/5b00dcff099c9520118f8a72cd1273e7/Packshot-Beosound-Explore-Carabiner-bonfire-orange-s1200x1200px.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/7HHSqxirZJGkir7Q6juvF7/5b00dcff099c9520118f8a72cd1273e7/Packshot-Beosound-Explore-Carabiner-bonfire-orange-s1200x1200px.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/7HHSqxirZJGkir7Q6juvF7/5b00dcff099c9520118f8a72cd1273e7/Packshot-Beosound-Explore-Carabiner-bonfire-orange-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$45",
+        "colorsCount" : 2,
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beolit 20 Leather handle",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beolit 20 strap in Black Anthracite",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/2oaYyoucgM9mC63WtoreiY/c9ecc024a1273d1b69ca8fd7abadf652/Charcoal_black.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/2oaYyoucgM9mC63WtoreiY/c9ecc024a1273d1b69ca8fd7abadf652/Charcoal_black.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/2oaYyoucgM9mC63WtoreiY/c9ecc024a1273d1b69ca8fd7abadf652/Charcoal_black.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/2oaYyoucgM9mC63WtoreiY/c9ecc024a1273d1b69ca8fd7abadf652/Charcoal_black.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$49",
+        "colorsCount" : 2,
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beosound Stage cover",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "beosound stage bronze taupe",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/5ok3LRIs7GGU2yC1Dd2kDa/39e1c9dcc0622335708b13a2319f5a4f/beosound-stage-front-bronze.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/5ok3LRIs7GGU2yC1Dd2kDa/39e1c9dcc0622335708b13a2319f5a4f/beosound-stage-front-bronze.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/5ok3LRIs7GGU2yC1Dd2kDa/39e1c9dcc0622335708b13a2319f5a4f/beosound-stage-front-bronze.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/5ok3LRIs7GGU2yC1Dd2kDa/39e1c9dcc0622335708b13a2319f5a4f/beosound-stage-front-bronze.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$169",
+        "colorsCount" : 5,
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
   
+    {
+        "name": "Beosound Stage Floor Stand",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound Stage Floor Stand",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/DFsXsZGNTlmemNRFfu6sh/17345b61e744222734d897e9eb3bf551/ACC_Beosound_Stage_Floorstand_Front.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/DFsXsZGNTlmemNRFfu6sh/17345b61e744222734d897e9eb3bf551/ACC_Beosound_Stage_Floorstand_Front.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/DFsXsZGNTlmemNRFfu6sh/17345b61e744222734d897e9eb3bf551/ACC_Beosound_Stage_Floorstand_Front.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/DFsXsZGNTlmemNRFfu6sh/17345b61e744222734d897e9eb3bf551/ACC_Beosound_Stage_Floorstand_Front.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$800",
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beoconnect Core",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound Stage Floor Stand",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/5XF7PrdquND29kEjG1iSTX/ac5873f522222cca75d54ea5ed2b51b5/Packshot-Beoconnect-Core-Perspective-0006-s1200x1200px.1.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/5XF7PrdquND29kEjG1iSTX/ac5873f522222cca75d54ea5ed2b51b5/Packshot-Beoconnect-Core-Perspective-0006-s1200x1200px.1.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/5XF7PrdquND29kEjG1iSTX/ac5873f522222cca75d54ea5ed2b51b5/Packshot-Beoconnect-Core-Perspective-0006-s1200x1200px.1.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/5XF7PrdquND29kEjG1iSTX/ac5873f522222cca75d54ea5ed2b51b5/Packshot-Beoconnect-Core-Perspective-0006-s1200x1200px.1.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$1,350",
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beoremote Halo",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound Stage Floor Stand",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/36FRyIY6G0r2E1MEnjk6nk/319d56da9c0380c51cd8396900a6b625/Beoremote-Halo-Goldtone-Hero.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/36FRyIY6G0r2E1MEnjk6nk/319d56da9c0380c51cd8396900a6b625/Beoremote-Halo-Goldtone-Hero.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/36FRyIY6G0r2E1MEnjk6nk/319d56da9c0380c51cd8396900a6b625/Beoremote-Halo-Goldtone-Hero.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/36FRyIY6G0r2E1MEnjk6nk/319d56da9c0380c51cd8396900a6b625/Beoremote-Halo-Goldtone-Hero.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$900",
+        "colorsCount" : 5,
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beosound Core",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound Core the center of sound by Bang & Olufsen",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/2Ya5na45hkkd68mZVjQOm/f713be9deb8ebfb2f737f768121cfd22/Packshot-Beosound-Core-0004-Front-S2000x2000px.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/2Ya5na45hkkd68mZVjQOm/f713be9deb8ebfb2f737f768121cfd22/Packshot-Beosound-Core-0004-Front-S2000x2000px.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/2Ya5na45hkkd68mZVjQOm/f713be9deb8ebfb2f737f768121cfd22/Packshot-Beosound-Core-0004-Front-S2000x2000px.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/2Ya5na45hkkd68mZVjQOm/f713be9deb8ebfb2f737f768121cfd22/Packshot-Beosound-Core-0004-Front-S2000x2000px.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$1,100",
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "USB-A TO MICRO USB CABLE",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "USB Cable for Beoplay Headphones Black 1",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/20aVpelmVoSKTQdNamdSCA/4f21224be1971c31904a0a0138ed6571/usb_cord_2-1000x1000.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/20aVpelmVoSKTQdNamdSCA/4f21224be1971c31904a0a0138ed6571/usb_cord_2-1000x1000.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/20aVpelmVoSKTQdNamdSCA/4f21224be1971c31904a0a0138ed6571/usb_cord_2-1000x1000.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/20aVpelmVoSKTQdNamdSCA/4f21224be1971c31904a0a0138ed6571/usb_cord_2-1000x1000.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "price" :"$15",
+        "showPrice" :true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "High-Quality DIN to RJ45 Power Link Cable 2.5 mm",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Powerlink cable with DIN to RJ45 male input in each end",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/5kGzO7j5FYkTrFr5UDxp2T/ac8647987c2060d5743ebe5ec25e7408/DOne.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/5kGzO7j5FYkTrFr5UDxp2T/ac8647987c2060d5743ebe5ec25e7408/DOne.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/5kGzO7j5FYkTrFr5UDxp2T/ac8647987c2060d5743ebe5ec25e7408/DOne.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/5kGzO7j5FYkTrFr5UDxp2T/ac8647987c2060d5743ebe5ec25e7408/DOne.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "colorsCount" : 1,
+        "showInfo": true
+        
+    },
+    {
+        "name": "High-Quality DIN to RJ45 Power Link Cable 5 mm",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Cable with DIN to DIN on each end",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "colorsCount" : 4,
+        "showInfo": true
+        
+    }
+    
+]
