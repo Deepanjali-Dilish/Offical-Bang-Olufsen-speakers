@@ -215,8 +215,69 @@
         "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
         "imageAlt" : "Cable with DIN to DIN on each end",
         "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
-        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375&amp;h=375&amp;fit=fill 375w, //images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=512&amp;h=512&amp;fit=fill 512w, //images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill 720w, //images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1200&amp;h=1200&amp;fit=fill 2x",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/2eaNyN3b02tsQoEdXbmjwi/a66a984a80772bf04dabc46a694383c4/done2.png?q=90&amp;fm=webp&amp;w=375 375w, //images.ctfassets.net/8cd2csgvqd3m/2eaNyN3b02tsQoEdXbmjwi/a66a984a80772bf04dabc46a694383c4/done2.png?q=90&amp;fm=webp&amp;w=1024 1024w, //images.ctfassets.net/8cd2csgvqd3m/2eaNyN3b02tsQoEdXbmjwi/a66a984a80772bf04dabc46a694383c4/done2.png?q=90&amp;fm=webp&amp;w=1440 1440w",
         "colorsCount" : 4,
+        "showInfo": true
+        
+    },
+    {
+        "name": "High-Quality DIN to DIN Power Link Cable 2.5 mm",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Cable with DIN to DIN on each end",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375 375w, //images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1024 1024w, //images.ctfassets.net/8cd2csgvqd3m/7lkxpna8xgbHRGu6VxV6wu/e9a0cdbfa066f6c2a48792da3ba29ae8/Packshot-din-to-din-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1440 1440w",
+        "colorsCount" : 4,
+        "showInfo": true
+        
+    },
+    {
+        "name": "High-Quality DIN to DIN Power Link Cable 5 mm ",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Cable with DIN to DIN on each end",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/40VhzaiSOFxHDyr84FillT/5272090e6e94abe4bb873a7ab3b93652/Packshot-din-to-din-5mm-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375 375w, //images.ctfassets.net/8cd2csgvqd3m/40VhzaiSOFxHDyr84FillT/5272090e6e94abe4bb873a7ab3b93652/Packshot-din-to-din-5mm-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1024 1024w, //images.ctfassets.net/8cd2csgvqd3m/40VhzaiSOFxHDyr84FillT/5272090e6e94abe4bb873a7ab3b93652/Packshot-din-to-din-5mm-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1440 1440w",
+        "colorsCount" : 1,
+        "showInfo": true
+        
+    },
+    {
+        "name": "High-Quality RJ45 to RJ45 Power Link Cable 5 mm",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Powerlink cable with RJ45 on both ends in 5 mm",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/WcOnOYpJzaFWRgY1P9NWj/3409725b6b835b04bf78ef6328818150/Packshot-rj45-to-rj45-5mm-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375 375w, //images.ctfassets.net/8cd2csgvqd3m/WcOnOYpJzaFWRgY1P9NWj/3409725b6b835b04bf78ef6328818150/Packshot-rj45-to-rj45-5mm-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1024 1024w, //images.ctfassets.net/8cd2csgvqd3m/WcOnOYpJzaFWRgY1P9NWj/3409725b6b835b04bf78ef6328818150/Packshot-rj45-to-rj45-5mm-front-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1440 1440w",
+        "colorsCount" : 1,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Power Link Splitter - RJ45",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Powerlink splitter for RJ45 input",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/7bRQDBsxsxLpPhYxO3fP1I/6cfd43cb200eb377c44540a5546ce366/Packshot-power-link-splitterrj45x2-s1200x1200px.png?q=90&amp;fm=webp&amp;w=375 375w, //images.ctfassets.net/8cd2csgvqd3m/7bRQDBsxsxLpPhYxO3fP1I/6cfd43cb200eb377c44540a5546ce366/Packshot-power-link-splitterrj45x2-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1024 1024w, //images.ctfassets.net/8cd2csgvqd3m/7bRQDBsxsxLpPhYxO3fP1I/6cfd43cb200eb377c44540a5546ce366/Packshot-power-link-splitterrj45x2-s1200x1200px.png?q=90&amp;fm=webp&amp;w=1440 1440w"
+        
+    },
+    {
+        "name": "Beosound Edge cover",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Beosound Edge wireless speaker in Bronze Tone",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/385NmYAbSCm4TUJPIEfvtY/34da00890f9391af6164e0f5e842636f/edge_hero_bronze.png?q=90&amp;fm=webp&amp;w=375 375w, //images.ctfassets.net/8cd2csgvqd3m/385NmYAbSCm4TUJPIEfvtY/34da00890f9391af6164e0f5e842636f/edge_hero_bronze.png?q=90&amp;fm=webp&amp;w=1024 1024w, //images.ctfassets.net/8cd2csgvqd3m/385NmYAbSCm4TUJPIEfvtY/34da00890f9391af6164e0f5e842636f/edge_hero_bronze.png?q=90&amp;fm=webp&amp;w=1440 1440w",
+        "price":"$120",
+        "showPrice":true,
+        "showInfo": true
+        
+    },
+    {
+        "name": "Beosound Edge Wall Bracket",
+        "imageUrl": "//images.ctfassets.net/8cd2csgvqd3m/7EmESxRtmZaOAUUVJgBKgw/85bc25230b8c88d16af5a6da7f85e2e4/a9_kvadratcover_grey_new.png?q=90&amp;fm=webp&amp;w=720&amp;h=720&amp;fit=fill", 
+        "imageAlt" : "Edge Wall Bracket Silver",
+        "imageSizes": "(min-width: 1600px) 1200px, (min-width: 1024px) 720px, (min-width: 768px) 512px, 375px",
+        "imageSrcSet": "//images.ctfassets.net/8cd2csgvqd3m/1i7MSSzKW7WrUADLIkKDvk/dbefc07ebeb086323d109a2cb7ae4c4b/bs_edge_wall.png?q=90&amp;fm=webp&amp;w=375 375w, //images.ctfassets.net/8cd2csgvqd3m/1i7MSSzKW7WrUADLIkKDvk/dbefc07ebeb086323d109a2cb7ae4c4b/bs_edge_wall.png?q=90&amp;fm=webp&amp;w=1024 1024w, //images.ctfassets.net/8cd2csgvqd3m/1i7MSSzKW7WrUADLIkKDvk/dbefc07ebeb086323d109a2cb7ae4c4b/bs_edge_wall.png?q=90&amp;fm=webp&amp;w=1440 1440w",
+        "price":"$375",
+        "colorsCount": 3,
+        "showPrice":true,
         "showInfo": true
         
     }
