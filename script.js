@@ -155,4 +155,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 
-  // document.head
+  // documnet.head.classList
