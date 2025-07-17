@@ -156,5 +156,3 @@ document.querySelectorAll('.head').forEach((head) => {
     head.classList.toggle('rotate')
   })
 })
-
-// document
